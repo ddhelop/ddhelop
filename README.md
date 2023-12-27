@@ -1,7 +1,7 @@
 ## Hi there👋
 <div align='center' style="display:flex;">
   <img src="https://media.giphy.com/media/26AHNRiRudsUewhKU/giphy.gif" alt="typescript" width="200px" height="200px" />
-  <img src="https://capsule-render.vercel.app/api?text=KIM%20DONG%20HYEOK&fontSize=35&type=venom&color=8CE257&animation=fadeIn&fontAlignY=45&desc=Dreaming%20of%20AI%20Developer.&descAlignY=69&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?text=KIM%20DONG%20HYEOK&fontSize=35&type=venom&color=8CE257&animation=fadeIn&fontAlignY=45&desc=Dreaming%20of%20Developer.&descAlignY=69&descAlign=50" />
 </div>
 
 
