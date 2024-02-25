@@ -1,36 +1,37 @@
-## Hi there👋
-<div align='center' style="display:flex;">
-  <img src="https://media.giphy.com/media/26AHNRiRudsUewhKU/giphy.gif" alt="typescript" width="200px" height="200px" />
-  <img src="https://capsule-render.vercel.app/api?text=KIM%20DONG%20HYEOK&fontSize=35&type=venom&color=8CE257&animation=fadeIn&fontAlignY=45&desc=Dreaming%20of%20Developer.&descAlignY=69&descAlign=50" />
-</div>
+![header](https://capsule-render.vercel.app/api?type=rounded&color=0:0f0c29,50:302b63,100:24243e&height=170&text=Hi&animation=fadeIn&desc=Donghyeok%20Kim&fontColor=ffffff&textBg=true&descColor&descAlign=60&fontAlign=33&fontAlignY=50&descSize=40&descAlignY=55)
+
 
 
 <br />
 
-## Technologies
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Departure.png" alt="Airplane Departure" width="25" height="25" /> Activity
+- **홍익대학교, 컴퓨터공학과** (2019.03 ~ 2025.02[예정] )
+- **CodeCamp FE course inflean** (2023.03 ~ 2023.08)
+- **UMC 5th, Web** (2023.09 ~ 2023.12)
 
-<div style="display:flex;">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="typescript" width="48px" height="48px" />
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="typescript" width="48px" height="48px" />
-  <img src="https://media.giphy.com/media/MhAjImzXlNF5r7m3O5/giphy.gif" alt="typescript" width="48px" height="48px" />
-</div>
+</br>
 
-&nbsp;
-## Experience
-<img src="https://img.shields.io/badge/React Native-09D3AC?style=for-the-badge&logo=createreactapp&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/>&nbsp;
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane.png" alt="Airplane" width="25" height="25" /> Project
+- **우주정거장**, 나만의 글쓰기 웹 플랫폼 (2023.12 ~ 2024.02)
+- **IBT WebHomepage**, IBT 홈페이지 제작 (2024.01 ~ 2024.02)
 
-&nbsp;
-## Team Collaboration Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>&nbsp;
+</br>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Arrival.png" alt="Airplane Arrival" width="25" height="25" /> Skill
+<!--
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js)](https://skillicons.dev)<br/></br>
+[![My Skills](https://skillicons.dev/icons?i=styledcomponents,tailwind,css)](https://skillicons.dev)
+-->
+
+![React Badge](http://img.shields.io/badge/-React-374D9A?style=plastic&logo=react&logoColor=ffffff)
+![Next Badge](http://img.shields.io/badge/-NextJS-374D9A?style=plastic&logo=nextdotjs&logoColor=ffffff)
+![TypeScript Badge](http://img.shields.io/badge/-TypeScript-374D9A?style=plastic&logo=typescript&logoColor=ffffff)
+![javascript Badge](http://img.shields.io/badge/-javascript-374D9A?style=plastic&logo=javascript&logoColor=ffffff)
+<br/><br/>
+![tailwindcss Badge](http://img.shields.io/badge/-tailwindcss-495057?style=plastic&logo=tailwindcss&logoColor=ffffff)
+![styledcomponents Badge](http://img.shields.io/badge/-styledcomponents-495057?style=plastic&logo=styledcomponents&logoColor=ffffff)
+![framer Badge](http://img.shields.io/badge/-framer-495057?style=plastic&logo=framer&logoColor=ffffff)
+</br><br/>
+![axios Badge](http://img.shields.io/badge/-axios-8b00ff?style=plastic&logo=axios&logoColor=ffffff)
+![apollographql Badge](http://img.shields.io/badge/-apollographql-8b00ff?style=plastic&logo=apollographql&logoColor=ffffff)
+
