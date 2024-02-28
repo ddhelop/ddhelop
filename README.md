@@ -12,8 +12,8 @@
 </br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane.png" alt="Airplane" width="25" height="25" /> Project
-- **우주정거장**, 나만의 글쓰기 웹 플랫폼 (2023.12 ~ 2024.02)
-- **IBT WebHomepage**, IBT 홈페이지 제작 (2024.01 ~ 2024.02)
+- **우주정거장**, 나만의 글쓰기 웹 플랫폼 (2023.12 ~ 2024.02) : [👁️‍🗨️ Repository](https://github.com/ddhelop/SpaceStation-Web)
+- **IBT WebHomepage**, IBT 홈페이지 제작 (2024.01 ~ 2024.02) [👁️‍🗨️ Repository](https://github.com/ddhelop/IBT_Homepage-Web)
 
 </br>
 
