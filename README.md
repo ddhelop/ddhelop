@@ -7,7 +7,8 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Departure.png" alt="Airplane Departure" width="25" height="25" /> Activity
 - **홍익대학교, 컴퓨터공학과** (2019.03 ~ 2025.02[예정] )
 - **CodeCamp FE course inflean** (2023.03 ~ 2023.08)
-- **UMC 5th, Web** (2023.09 ~ 2023.12)
+- **대학생 IT연합동아리 UMC 5th, Web 파트** (2023.09 ~ 2023.12)
+- **신촌 연합 IT창업동아리 CEOS 19기, FrontEnd 포지션** (2024.03 ~ 현재)
 
 </br>
 
