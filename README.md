@@ -5,16 +5,20 @@
 <br />
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Departure.png" alt="Airplane Departure" width="25" height="25" /> Activity
-- **홍익대학교, 컴퓨터공학과** (2019.03 ~ 2025.02[예정] )
-- **CodeCamp FE course inflean** (2023.03 ~ 2023.08)
-- **대학생 IT연합동아리 UMC 5th, Web 파트** (2023.09 ~ 2023.12)
-- **신촌 연합 IT창업동아리 CEOS 19기, FrontEnd 포지션** (2024.03 ~ 현재)
+- **홍익대학교, 컴퓨터공학과** (2019.03 ~ 2025.02[졸업 예정] )
+- **CodeCamp FE course inflean** (2023.03 ~ 2023.08 수료)
+- **대학생 IT연합동아리 UMC 5th, Web 파트** (2023.09 ~ 2023.12 수료)
+- **신촌 연합 IT창업동아리 CEOS 19기, FrontEnd 포지션** (2024.03 ~ 2024.08 수료)
+- **홍익대학교 벤처창업 동아리 HiVE 29기**, 기획 파트 (2024.03 ~ 2024.07 수료)
+- **하나 소셜 벤처 유니버시티 서강대**, 기획 파트 (2024.07 ~ 2024.08 수료)
 
 </br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane.png" alt="Airplane" width="25" height="25" /> Project
 - **우주정거장**, 나만의 글쓰기 웹 플랫폼 (2023.12 ~ 2024.02) : [👁️‍🗨️ Repository](https://github.com/ddhelop/SpaceStation-Web)
-- **IBT WebHomepage**, IBT 홈페이지 제작 (2024.01 ~ 2024.02) [👁️‍🗨️ Repository](https://github.com/ddhelop/IBT_Homepage-Web)
+- **IBT WebHomepage**, IBT 홈페이지 Web(반응형) (2024.01 ~ 2024.02) [👁️‍🗨️ Repository](https://github.com/ddhelop/IBT_Homepage-Web) / [🔖 Link](https://www.rocketibt.co.kr/)
+- **Linkit**, 팀빌딩 서비스 Web (2024.05 ~ ) [🔖 Link](https://linkt.im/)
+- **BeatBuddy**, 베뉴 큐레이팅 서비스 WebApp (2024.07 ~ ) [🔖 Link](https://beatbuddy.world/)
 
 </br>
 
