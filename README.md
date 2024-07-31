@@ -17,7 +17,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane.png" alt="Airplane" width="25" height="25" /> Project
 - **우주정거장**, 나만의 글쓰기 웹 플랫폼 (2023.12 ~ 2024.02) : [👁️‍🗨️ Repository](https://github.com/ddhelop/SpaceStation-Web)
 - **IBT WebHomepage**, IBT 홈페이지 Web(반응형) (2024.01 ~ 2024.02) [👁️‍🗨️ Repository](https://github.com/ddhelop/IBT_Homepage-Web) / [🔖 Link](https://www.rocketibt.co.kr/)
-- **Linkit**, 팀빌딩 서비스 Web (2024.05 ~ ) [🔖 Link](https://linkt.im/)
+- **Linkit**, 팀빌딩 서비스 Web (2024.05 ~ ) [🔖 Link](https://linkit.im/)
 - **BeatBuddy**, 베뉴 큐레이팅 서비스 WebApp (2024.07 ~ ) [🔖 Link](https://beatbuddy.world/)
 
 </br>
