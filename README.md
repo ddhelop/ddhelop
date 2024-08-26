@@ -5,12 +5,12 @@
 <br />
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Departure.png" alt="Airplane Departure" width="25" height="25" /> Activity
-- **홍익대학교, 컴퓨터공학과** (2019.03 ~ 2025.02[졸업 예정] )
-- **CodeCamp FE course inflean** (2023.03 ~ 2023.08 수료)
-- **대학생 IT연합동아리 UMC 5th, Web 파트** (2023.09 ~ 2023.12 수료)
-- **신촌 연합 IT창업동아리 CEOS 19기, 프론트엔드 파트원** (2024.03 ~ 2024.08 수료)
-- **홍익대학교 벤처창업 동아리 HiVE 29기**, 기획 파트 (2024.03 ~ 2024.07 수료)
-- **하나 소셜 벤처 유니버시티 서강대**, 기획 파트 (2024.07 ~ 2024.08 수료)
+- **홍익대학교, 컴퓨터공학과** (2019.03 ~ 2025.02`졸업 예정` )
+- **CodeCamp FE course inflean** (2023.03 ~ 2023.08 `수료`)
+- **대학생 IT연합동아리 UMC 5th, Web 파트** (2023.09 ~ 2023.12 `수료`)
+- **신촌 연합 IT창업동아리 CEOS 19기, 프론트엔드 파트원** (2024.03 ~ 2024.08 `수료`)
+- **홍익대학교 벤처창업 동아리 HiVE 29기**, 기획 파트 (2024.03 ~ 2024.07 `수료`)
+- **하나 소셜 벤처 유니버시티 서강대**, 기획 파트 (2024.07 ~ 2024.08 `수료`)
 - **2024 학생 창업유망팀 300+ 성장트랙**, (2024.07 ~ )
 - **신촌 연합 IT창업동아리 CEOS 20기, 프론트엔드 파트장** (2024.08 ~ )
 
@@ -19,9 +19,13 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane.png" alt="Airplane" width="25" height="25" /> Project
 - **우주정거장**, 나만의 글쓰기 웹 플랫폼 (2023.12 ~ 2024.02) : [👁️‍🗨️ Repository](https://github.com/ddhelop/SpaceStation-Web)
 - **IBT WebHomepage**, IBT 홈페이지 Web(반응형) (2024.01 ~ 2024.02) [👁️‍🗨️ Repository](https://github.com/ddhelop/IBT_Homepage-Web) / [🔖 Link](https://www.rocketibt.co.kr/)
-- **Linkit**, 팀빌딩 서비스 Web (2024.05 ~ ) [🔖 Link](https://linkit.im/)
-- **BeatBuddy**, 베뉴 큐레이팅 서비스 WebApp (2024.07 ~ ) [🔖 Link](https://beatbuddy.world/)
-
+- **Linkit**, 팀빌딩 서비스 (2024.05 ~ ) [🔖 Link](https://linkit.im/)
+  - `성균관대학교 캠퍼스타운 입주`
+  - `학생 창업유망팀 300+ 성장트랙`
+- **BeatBuddy**, 베뉴 큐레이팅 서비스 WebApp (2024.07 ~ 2024.08) [🔖 Link](https://beatbuddy.world/)
+   - `CEOS 19기 데모데이 대상(1등)`
+- **Link Culture**, 교통약자 배리어프리 문화생활 플랫폼, 기획 (2024.07 ~ )
+   - `2024 보건복지부 공공·민간 빅데이터 활용 창업경진대회 대상(1등, 보건복지부 장관상)`
 </br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Arrival.png" alt="Airplane Arrival" width="25" height="25" /> Skill
