@@ -1,9 +1,9 @@
+  <img
+    src="https://render.gitanimals.org/lines/ddhelop?pet-id=637623879201541812"
+    width="600"
+    height="80"
+  />  
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=0:0f0c29,50:302b63,100:24243e&height=170&text=Hi&animation=fadeIn&desc=Donghyeok%20Kim&fontColor=ffffff&textBg=true&descColor&descAlign=60&fontAlign=33&fontAlignY=50&descSize=40&descAlignY=55)
-
-
-
-<br />
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Departure.png" alt="Airplane Departure" width="25" height="25" /> Activity
 - **홍익대학교, 컴퓨터공학과** (2019.03 ~ 2025.02`졸업 예정` )
 - **CodeCamp FE course inflean** (2023.03 ~ 2023.08 `수료`)
