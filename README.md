@@ -1,12 +1,3 @@
 
 
 
-### Donghyeok Kim - Frontend Developer
-
-
-
-
-
-
-
-
